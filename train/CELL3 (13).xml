@@ -1,0 +1,26 @@
+<annotation>
+	<folder>processed</folder>
+	<filename>CELL3 (13).jpg</filename>
+	<path>C:\Users\Joskillz\Desktop\backup\Mariam\processed\CELL3 (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>CELL3_CIN3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>62</ymin>
+			<xmax>273</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>
